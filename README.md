@@ -1,4 +1,4 @@
-### Hi there, I'm Milad - aka [ELNS][website]
+### Hi there,
 
 
 ## I'm an enthusiastic open source software developer
@@ -10,7 +10,6 @@
 - I am currently learning computer vision and image processing using python programming language.
 
 
-[website]: https://elns.ir
 [python]: https://python.org
 [fortran]: https://fortran-lang.org/
 [linear-algebra]: https://en.wikipedia.org/wiki/Linear_algebra
