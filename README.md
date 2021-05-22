@@ -4,7 +4,7 @@
 ## I'm an enthusiastic open source software developer
 
 - Who love to develop new tools and algorithms for deep learning(specially computer vision) and scientific computing.
-- I am experienced in [Python][python], [Fortran][fortran], [Linear Algebra][linear-algebra], [Algorithms][algorithm], [Numerical Methods][numerical-methods], [Data Structures][data-structure], [opencv][opencv], [facial recognition][facial_recognition],
+- I am experienced in [Python][python], [Fortran][fortran], [Linear Algebra][linear-algebra], [Algorithms][algorithm], [Numerical Methods][numerical-methods], [Data Structures][data-structure], [opencv][opencv], [facial recognition][facial_recognition], [tensorflow][tensorflow], [keras][keras]
 [Git][git], [GitHub][github], [VSCode][vscode], [PyCharm][pycharm], [Atom Editor][atom], [Anaconda][anaconda], [GitFlow][git-flow], [Linux][linux], [Numpy][numpy], [Numpy.F2py][f2py], [SciPy][scipy], [Matplotlib][matplotlib],  
 [Parallel Programming][parallel-programming], [OpenMP][openmp], [Open Source Software Development][ossd], [Test Driven Development][tdd], [PyTest][pytest], [UnitTesting][unit-testing], [DocTest][doctest].  
 - I am currently learning computer vision and image processing using python programming language.
@@ -18,6 +18,8 @@
 [data-structure]: https://en.wikipedia.org/wiki/Data_structure
 [opencv]: https://opencv.org/
 [facial_recognition]: https://en.wikipedia.org/wiki/Facial_recognition_system
+[tensorflow]: https://tensorflow.org
+[keras]: https://keras.io
 [git]: https://git-scm.com/
 [github]: https://github.com
 [vscode]: https://code.visualstudio.com/
