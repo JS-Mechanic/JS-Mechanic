@@ -1,7 +1,7 @@
 ### Hi there, It's Milad
 
 
-## I'm an enthusiastic oss developer | computer vision research software engineer
+## I'm An Enthusiastic OSS Developer | Computer Vision RSE
 
 - Who love to read research papers and develop new tools and algorithms for deep learning(specially computer vision) and scientific computing.
 - I am experienced in [Python][python], [Fortran][fortran], [Linear Algebra][linear-algebra], [Algorithms][algorithm], [Numerical Methods][numerical-methods], [Data Structures][data-structure], [opencv][opencv], [facial recognition][facial_recognition], [tensorflow][tensorflow], [keras][keras], [Git][git], [GitHub][github], [VSCode][vscode], [PyCharm][pycharm], [Atom Editor][atom], [Anaconda][anaconda], [GitFlow][git-flow], [Linux][linux], [Numpy][numpy], [Numpy.F2py][f2py], [SciPy][scipy], [Matplotlib][matplotlib], [Parallel Programming][parallel-programming], [OpenMP][openmp], [Open Source Software Development][ossd], [Test Driven Development][tdd], [PyTest][pytest], [UnitTesting][unit-testing], [DocTest][doctest].
