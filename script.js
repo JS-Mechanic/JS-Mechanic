@@ -210,12 +210,12 @@ function ReCalculateCanvasSize() {
 
 window.addEventListener("resize", ReCalculateCanvasSize);
 
-document.addEventListener(
-  "DOMContentLoaded",
-  function () {
-    swal(
-      "Hey, It's Milad. Welcome to my website, Press OK to enter."
-    );
-  },
-  false
-);
+// document.addEventListener(
+//   "DOMContentLoaded",
+//   function () {
+//     swal(
+//       "Hey, It's Milad. Welcome to my website, Press OK to enter."
+//     );
+//   },
+//   false
+// );
