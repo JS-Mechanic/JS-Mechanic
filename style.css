@@ -158,8 +158,12 @@ a.medium:hover {
   color: purple;
 }
 
-a.blog:hover {
-  color: mediumblue;
+a.virgool:hover {
+  color: royalblue;
+}
+
+a.leetcode:hover {
+  color: coral;
 }
 
 .swal-modal {
