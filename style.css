@@ -143,27 +143,23 @@ a.mail:hover {
 }
 
 a.github:hover {
-  color: #f1c40f;
+  color: #7f6de7;
 }
 
 a.linkedin:hover {
-  color: #9b59b6;
+  color: #062bbd;
 }
 
 a.twitter:hover {
   color: #3498db;
 }
 
-a.medium:hover {
-  color: purple;
-}
-
-a.virgool:hover {
-  color: royalblue;
+a.codepen:hover {
+  color: #6f6f80;
 }
 
 a.leetcode:hover {
-  color: coral;
+  color: #dab412;
 }
 
 .swal-modal {
