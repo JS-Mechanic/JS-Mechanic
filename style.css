@@ -102,12 +102,10 @@ a {
 
 /*This is going to be the rest of my styling*/
 canvas {
-  font-family: Open Sans Condensed;
   font-weight: normal;
 }
 
 .page-header h1 {
-  font-family: Open Sans Condensed;
   font-size: 4em;
   font-weight: normal;
   padding: 0.4em 0;
@@ -115,9 +113,8 @@ canvas {
 }
 
 .page-header h2 {
-  font-family: Open Sans Condensed;
-  font-size: 1.25em;
-  font-weight: normal;
+  font-size: 1.3em;
+  font-weight: 600;
   padding: 0.15em 0;
   color: #333333;
 }
