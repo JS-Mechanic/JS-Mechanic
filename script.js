@@ -4,85 +4,85 @@ var dimension = [
   document.documentElement.clientHeight,
 ];
 var functions = new Array();
-functions.push("printk");
-functions.push("module_init");
-functions.push("cleanup_module");
-functions.push("wait_queue_head_t");
+functions.push("JS");
+functions.push("JavaScript");
+functions.push("HTML");
+functions.push("CSS");
 
-functions.push("atomic_t");
-functions.push("single_open");
-functions.push("file_operations");
-functions.push("spin_lock");
+functions.push("HTML5");
+functions.push("CSS3");
+functions.push("Web Development");
+functions.push("Git");
 
-functions.push("access_ok");
-functions.push("capable");
-functions.push("atomic_read");
-functions.push("atomic_dec_and_test");
+functions.push("GitHub");
+functions.push("GitLab");
+functions.push("React");
+functions.push("ReactJS");
 
-functions.push("wait_event_interruptible");
-functions.push("mempool_free");
-functions.push("mempool_alloc");
-functions.push("try_module_get");
+functions.push("Angular");
+functions.push("AngularJS");
+functions.push("Vue");
+functions.push("VueJS");
 
-functions.push("kmem_cache_create");
-functions.push("class_create");
-functions.push("alloc_chrdev_region");
-functions.push("device_create");
+functions.push("TypeScript");
+functions.push("StackOverFlow");
+functions.push("Docker");
+functions.push("Front");
 
-functions.push("cdev_init");
-functions.push("remove_proc_entry");
-functions.push("request_irq");
-functions.push("free_irq");
+functions.push("FrontEnd");
+functions.push("FrontEnd Engineer");
+functions.push("CodePen");
+functions.push("LeetCode");
 
-functions.push("usb_class_driver");
-functions.push("seq_printf");
-functions.push("kfifo_out");
-functions.push("kfifo_alloc");
+functions.push("Dribbble");
+functions.push("Figma");
+functions.push("UI");
+functions.push("Algorithms");
 
-functions.push("list_for_each");
-functions.push("list_entry");
-functions.push("set_task_state");
-functions.push("for_each_process");
+functions.push("Data Structures");
+functions.push("OSS");
+functions.push("Open Source");
+functions.push("Chrome");
 
-functions.push("module_param");
-functions.push("timer_list");
-functions.push("tasklet_trylock");
-functions.push("mdelay");
+functions.push("Linux");
+functions.push("MX Linux");
+functions.push("VS Code");
+functions.push("WebStorm");
 
-functions.push("barrier");
-functions.push("tasklet_schedule");
-functions.push("copy_to_user");
-functions.push("copy_from_user");
+functions.push("JetBrains");
+functions.push("Problem Solving");
+functions.push("Remote Development");
+functions.push("netlify");
 
-functions.push("probe_irq_on");
-functions.push("usb_register");
-functions.push("tasklet_disable_nosync");
-functions.push("del_timer");
+functions.push("Vercel");
+functions.push("Self Motivated");
+functions.push("Agile");
+functions.push("Scrum");
 
-functions.push("nf_hook_ops");
-functions.push("nf_register_hook");
-functions.push("kobj_attribute");
-functions.push("skb_network_header");
+functions.push("Kanban");
+functions.push("Rest");
+functions.push("RestAPI");
+functions.push("Markdown");
 
-functions.push("skb_transport_header");
-functions.push("current_kernel_time");
-functions.push("getnstimeofday");
-functions.push("do_gettimeofday");
+functions.push("README");
+functions.push("OutLook");
+functions.push("ProtonMail");
+functions.push("BackEnd");
 
-functions.push("for_each_possible_cpu");
-functions.push("kcpustat_cpu");
-functions.push("register_filesystem");
-functions.push("mount_bdev");
+functions.push("Node");
+functions.push("NodeJS");
+functions.push("Docker Swarm");
+functions.push("kubernetes");
 
-functions.push("lfs_create_files");
-functions.push("lfs_create_dir");
+functions.push("Software Architecture");
+functions.push("Google Fonts");
 functions.push("full_name_hash");
-functions.push("unregister_blkdev");
+functions.push("Hereismy.site");
 
-functions.push("blk_queue_logical_block_size");
-functions.push("blk_fetch_request");
-functions.push("sysfs_create_file");
-functions.push("kobject_create_and_add");
+functions.push("JSX");
+functions.push("DOM");
+functions.push("Virtual DOM");
+functions.push("FrontEnd Developer");
 
 var brushes = [
   "#16a085",
