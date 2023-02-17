@@ -76,8 +76,8 @@ a {
   overflow: hidden;
   top: 0;
   left: 0;
-  opacity: 0.9;
-  background: #ffffff;
+  opacity: 1;
+  background: rgba(255, 255, 255, 0.68);
 }
 
 .page-navigation {
@@ -107,7 +107,7 @@ canvas {
 
 .page-header h1 {
   font-size: 4em;
-  font-weight: normal;
+  font-weight: 500;
   padding: 0.4em 0;
   color: #333333;
 }
@@ -169,7 +169,6 @@ a.leetcode:hover {
 }
 
 .page-sidebar {
-  font-family: Open Sans Condensed;
   font-size: 1em;
   font-weight: normal;
   color: #888888;
@@ -213,7 +212,7 @@ a.leetcode:hover {
   display: block;
   width: 2px;
   height: 50px;
-  border-radius: 2px;
+  border-radius: 5px;
   clear: both;
   margin: 2px;
 }
