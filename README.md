@@ -7,6 +7,6 @@
 
 <p style="text-align: center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=javascript,typescript,react,html,css,webpack,docker,git,github,stackoverflow,linux,codepen,vscode"  alt="tech_logos"/>
+    <img src="https://skillicons.dev/icons?i=javascript,typescript,react,nextjs,html,css,sass,tailwind,webpack,babel,graphql,docker,postman,git,github,stackoverflow,linux,codepen,netlify,vscode"  alt="tech_logos"/>
   </a>
 </p>
