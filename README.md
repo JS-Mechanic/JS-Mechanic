@@ -1,3 +1,4 @@
+<div style="text-align: center">
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/elns) [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/callMeElns) [![Codepen](https://img.shields.io/badge/Codepen-000000?style=for-the-badge&logo=codepen&logoColor=white)](https://codepen.io/elns) 
@@ -32,8 +33,10 @@
 
 ### Daily used technologies:
 
-<p style="text-align: center">
+<p>
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=javascript,typescript,react,nextjs,html,css,sass,tailwind,webpack,babel,graphql,docker,postman,git,github,stackoverflow,linux,codepen,netlify,vscode"  alt="tech_logos"/>
   </a>
 </p> -->
+
+</div>
