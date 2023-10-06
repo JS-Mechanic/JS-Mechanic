@@ -1,5 +1,5 @@
 # 💫 About Me:
-A solution-oriented and problem solver software engineer with more than 4 years of experience in software industry. Interested<br>in helping other developers and transferring knowledge by writing blog posts and developing open source projects. Eager to<br>learn and flexible to adapt with new technologies.
+Software engineer with 4+ years of experience, expertise in **JavaScript**, **ReactJS**, and a passion for helping other developers and sharing knowledge through **blog posts** and **open source projects.** **Eager to learn and adapt to new technologies**, with **strong communication** and **problem solving** skills.
 
 
 ## 🌐 Socials:
