@@ -1,5 +1,5 @@
 # 💫 About Me:
-A software engineer with 5+ years of experience, expertise in **JavaScript**, **ReactJS**, and a passion for helping other developers and sharing knowledge through **blog posts** and **open source projects**. Eager to learn and adapt to new technologies, with strong communication and problem solving skills.
+I am a software developer with **5+** years of experience, specializing in **ReactJS**. I am passionate about building high-quality software and working with teams to achieve common goals. I am also a strong advocate for open source software and enjoy **sharing my knowledge** with others through **blog posts**, **open source contributions** and **frontend community meetings**. I am a **quick learner** and am always eager to **adopt new technologies**. I am confident that I can be a valuable asset to your software development team.
 
 
 ## 🌐 Socials:
