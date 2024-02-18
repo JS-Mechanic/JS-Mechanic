@@ -1,7 +1,6 @@
 # 💫 About Me:
-As a Senior Frontend Engineer at SwiftSky, I spearhead a team of three engineers in migrating the complex codebase from JavaScript to TypeScript, which modernizes and solidifies its maintainability. With the help of my team, I also optimize the web app performance by 30%, reduce the initial bundle size by 48%, and increase the user engagement by 20%. 
 
-I am passionate about building high-quality software and working with teams to achieve common goals. I am also a strong advocate for open source software and enjoy sharing my knowledge with others through blog posts, open source contributions, and frontend community meetings. I am a quick learner and am always eager to adopt new technologies, such as Supabase and SEO. I am confident that I can be a valuable asset to your software development team.
+I am a frontend software developer with **5+** years of experience, specializing in **ReactJS**. I am passionate about building high-quality web applications and working with teams to achieve common goals. I am also a strong advocate for open source software and enjoy **sharing my knowledge** with others through **blog posts**, **open source contributions** and **frontend community meetings**. I am a **quick learner** and am always eager to **adopt new technologies**. I am confident that I can be a valuable asset to your software development team.
 
 
 ## 🌐 Socials:
