@@ -1,6 +1,6 @@
 # 💫 About Me:
 
-I am a frontend software developer with **5+** years of experience, specializing in **ReactJS**. I am passionate about building high-quality web applications and working with teams to achieve common goals. I am also a strong advocate for open source software and enjoy **sharing my knowledge** with others through **blog posts**, **open source contributions** and **frontend community meetings**. I am a **quick learner** and am always eager to **adopt new technologies**. I am confident that I can be a valuable asset to your software development team.
+Senior Frontend Developer with expertise in JavaScript, TypeScript and React. Experienced in leading teams, mentoring junior developers, optimizing web performance, and contributing to open-source projects. Skilled in modernizing codebases, enhancing developer experience, improving SEO rankings, and expanding test coverage. Eager to learn continuously , teach, and share knowledge through technical blogging and community involvement.
 
 
 ## 🌐 Socials:
