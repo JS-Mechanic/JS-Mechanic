@@ -1,6 +1,6 @@
 # 💫 About Me:
 
-Senior Frontend Developer with expertise in JavaScript, TypeScript and React. Experienced in leading teams, mentoring junior developers, optimizing web performance, and contributing to open-source projects. Skilled in modernizing codebases, enhancing developer experience, improving SEO rankings, and expanding test coverage. Eager to learn continuously , teach, and share knowledge through technical blogging and community involvement.
+Senior Frontend Developer with expertise in JavaScript, TypeScript, ReactJS and NextJS. Experienced in leading teams, mentoring junior developers, optimizing web performance, and contributing to open-source projects. Skilled in modernizing codebases, enhancing developer experience, improving SEO rankings, and expanding test coverage. Eager to learn continuously , teach, and share knowledge through technical blogging and community involvement.
 
 
 ## 🌐 Socials:
